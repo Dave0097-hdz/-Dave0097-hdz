@@ -11,7 +11,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Technological University of the Jungle).
+- :school: I am a `Junior` at Technological University of the Jungle.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I'm always learning about `Website` and `Mobile app Development`. 
 - :nerd_face: Always `learning new things`.
