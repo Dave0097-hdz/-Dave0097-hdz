@@ -25,9 +25,9 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?style=plastic&logo=PHP&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="Dart and Flutter" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=D%2B%2B&logoColor=white">
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="DART" src="https://img.shields.io/badge/DART%20-%232370ED.svg?style=plastic&logo=DART&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -45,7 +45,11 @@
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
+  </a>
+&emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER%20-%232370ED.svg?style=plastic&logo=FLUTTER&logoColor=white">
+  </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
