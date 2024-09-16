@@ -112,6 +112,6 @@ I specialize in building RESTful APIs to provide seamless communication between 
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-	<img src="https://github.com/Dave0097-hdz/Dave0097-hdz/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+	<img src="https://github.com/Dave0097-hdz/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </p>
 
